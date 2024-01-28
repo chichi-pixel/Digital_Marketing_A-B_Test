@@ -1,3 +1,5 @@
+<img width="351" alt="sustmobi" src="https://github.com/chichi-pixel/Digital_Marketing_AB_Test/assets/60243643/0246f8c8-f8c2-4b4f-827c-9ed37d118c00">
+
 # Applications in the Automotive Market:
 
 ## Optimizing Conversion Rates:
@@ -30,13 +32,14 @@ Overall, BMW's marketing strategies effectively showcase its commitment to innov
 # What is the affect of Sustinable Mobility?
 ## Sustainable mobility, which refers to transportation methods that are environmentally friendly and socially beneficial, has several significant effects and benefits. 
 
+<img width="305" alt="sustmobi2" src="https://github.com/chichi-pixel/Digital_Marketing_AB_Test/assets/60243643/62aaed64-8758-40b5-8a08-04b2761ca35d">
+
 * Some of these include:
 Reduction of Environmental Pollution: Sustainable mobility helps reduce emissions from fossil fuel-powered transportation, which is a major contributor to air pollution.
 
 * Improved Air Quality: By promoting low-emission or electric vehicles, sustainable mobility contributes to better air quality in cities, leading to a healthier environment for residents.
 
 * Resource Conservation: It reduces reliance on finite natural resources such as coal, oil, and gas, and encourages the use of electric and alternative-fuel vehicles, thus aiding in resource conservation
-
 
 * Economic Benefits: Sustainable mobility can lead to cost savings, job creation, and increased commercial activity. It also contributes to the efficient supply of goods and services.
 
@@ -45,3 +48,8 @@ Reduction of Environmental Pollution: Sustainable mobility helps reduce emission
 * In summary, sustainable mobility offers a wide range of benefits, including environmental protection, improved public health, resource conservation, economic advantages, and contributions to climate change mitigation.
 
 * These effects make sustainable mobility an important focus for urban planning and transportation policies.
+
+
+<img width="634" alt="sustainable mobility1" src="https://github.com/chichi-pixel/Digital_Marketing_AB_Test/assets/60243643/05ed4750-b54c-44d3-9825-ffa84aa917f3"> 
+
+                                                              - Have a nice data science days! -
